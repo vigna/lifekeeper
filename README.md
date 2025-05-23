@@ -1,4 +1,4 @@
-# Welcome to `lifekeeper`
+# Welcome to `lifekeeper`!
 
 ## Introduction
 
