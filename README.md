@@ -3,11 +3,11 @@
 ## Introduction
 
 `lifekeeper` is a completely trivial program that prints an ASCII `NUL`
-character every 30 seconds. This has no effect visually, but if someone is
-watching the connection for activity it will see some. People using remote
-connections through firewalls might find it useful, as often masquerading
-firewalls are configured so to shut down connections that appear not to be
-active for some time.
+character every five seconds. This has no effect visually, but if someone
+is watching the connection for activity it will see some. People using
+remote connections through firewalls might find it useful, as often
+masquerading firewalls are configured so to shut down connections that
+appear not to be active for some time.
 
 ## Usage
 
